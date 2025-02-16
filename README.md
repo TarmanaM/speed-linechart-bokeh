@@ -33,7 +33,7 @@ pip install -r requirements.txt
 1. Ensure the log file `soal_chart_bokeh.txt` is in the project directory.
 2. Run the script:
    ```sh
-   python script.py
+   python plot_network.py
    ```
 3. The script will generate `line_chart.html`. Open this file in a web browser to view the visualization.
 
