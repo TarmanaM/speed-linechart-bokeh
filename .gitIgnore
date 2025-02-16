@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Log dan file sementara
+*.log
+*.pot
+*.mo
+*.swp
+*.swo
+*.swn
+
+# Konfigurasi editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspac
